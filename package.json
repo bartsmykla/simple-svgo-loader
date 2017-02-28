@@ -1,0 +1,12 @@
+{
+  "name": "simple-svgo-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bartlomiej Smykla <bartek@smykla.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "loader-utils": "^1.0.2",
+    "svgo": "^0.7.2"
+  }
+}

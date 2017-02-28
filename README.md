@@ -1,0 +1,1 @@
+# simple-svgo-loader
